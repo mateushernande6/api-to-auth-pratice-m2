@@ -10,7 +10,7 @@
 1. Clone este repositório:
 
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/mateushernande6/api-to-auth-pratice-m2)
+   git clone https://github.com/mateushernande6/api-to-auth-pratice-m2
    cd seu-repositorio
    ```
 
